@@ -4,24 +4,24 @@
   - Software Engineering
   - Systems
   - DevOps
-  - TypeScript
-  - UNIX, GNU/Linux
+  - [TypeScript](https://github.com/Microsoft/TypeScript)
+  - UNIX, GNU/Linux ([Arch](https://archlinux.org/))
   - Shell scripting
   - Crypto (both cryptocurrencies and cryptography)
   - Teaching
 - 🌱 I’m currently learning: same as above.
 - 💞️ I’m looking to collaborate on: nothing ATM.
-- 📫 How to reach me: please don't -- unless it's a job offer -- then through Linked-In.
+- 📫 How to reach me: through Linked-In.
 - 📰 My credentials:
-  - ∑ Bachelour of Mathematics - University of Waterloo
+  - ∑ Bachelour of Mathematics - [University of Waterloo](https://cs.uwaterloo.ca/)
     - Honours Computer Science, Software Engineering Option, with Distinction
-  - 🧪 Master of Science - University of British Columbia
+  - 🧪 Master of Science - [University of British Columbia](https://www.cs.ubc.ca/)
     - Computer Science, Systems and Software Engineering focus
-  - 🕴️ Master of Business Administration - Simon Frasier University
+  - 🕴️ Master of Business Administration - [Simon Frasier University](https://beedie.sfu.ca/programs/graduate/full-time-mba)
     - Generalist Program
-  - 🤷 Associate Certificate in Agile Leadership - University of British Columbia
-  - 🏉 Scrum Certified Scrum Master - Scrum Alliance
-- ✨ Most of my stuff is on gitlab. I only use github to collaborate with github projects.
+  - 🤷 Associate Certificate in Agile Leadership - [University of British Columbia](https://continuingstudies.sauder.ubc.ca/programs/agile-leadership)
+  - 🏉 Certified Scrum Master - [Scrum Alliance](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
+- ✨ Most of my stuff is on [gitlab](https://gitlab.com/jhilliker). I only use github to collaborate with github projects.
 
 <!---
 jhilliker/jhilliker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
